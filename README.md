@@ -4,7 +4,22 @@
 
 I am a passionate Java Full Stack Developer focused on building scalable, secure, and real-world applications using Java and the Spring ecosystem.
 
-Currently working on backend engineering, REST API development, authentication & authorization, and enterprise application architecture.
+Currently working on backend engineering, REST API development, authentication & authorization, enterprise application architecture and building **Shree AI OS** — a deterministic AI runtime for Java 21.
+
+## 🚀 Featured Projects
+
+- Shree AI OS (Java Runtime)
+- Shree Platform Web (Next.js Developer Portal)
+
+## 🛠 Tech Stack
+
+Java • Spring Boot • PostgreSQL • pgvector • React • Next.js • Tailwind CSS
+
+## 🌐 Links
+
+Website: https://shree-ai-os.netlify.app
+
+GitHub: https://github.com/darshanrathod04
 
 ---
 
