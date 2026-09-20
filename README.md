@@ -9,17 +9,6 @@ Currently building **Shree AI OS**, an open-source deterministic AI runtime for 
 📍 Nagpur, India
 💼 Open to Software Engineer / Backend Developer roles
 
-## 🚀 Featured Projects
-
-- Shree AI OS (Java Runtime)
-- Shree Platform Web (Next.js Developer Portal)
-
-
-## 🌐 Links
-
-Website: https://shree-ai-os.netlify.app
-
-GitHub: https://github.com/darshanrathod04
 
 ---
 
@@ -62,6 +51,15 @@ GitHub: https://github.com/darshanrathod04
 ---
 
 # 🚀 Featured Projects
+
+- Shree AI OS (Java Runtime)
+- Shree Platform Web (Next.js Developer Portal)
+
+
+## 🌐 Links
+
+Website: https://shree-ai-os.netlify.app
+
 
 ## Smart Campus Connect (SCC)
 
