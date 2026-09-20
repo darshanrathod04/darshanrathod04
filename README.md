@@ -14,9 +14,6 @@ Currently building **Shree AI OS**, an open-source deterministic AI runtime for 
 - Shree AI OS (Java Runtime)
 - Shree Platform Web (Next.js Developer Portal)
 
-## 🛠 Tech Stack
-
-Java • Spring Boot • PostgreSQL • pgvector • React • Next.js • Tailwind CSS
 
 ## 🌐 Links
 
@@ -110,6 +107,9 @@ Features:
 - JWT Authentication
 - Clean Architecture
 - System Design
+- Hybrid RAG
+- System Design
+- AI Runtime Engineering
 
 ---
 
