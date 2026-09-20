@@ -4,7 +4,10 @@
 
 I am a passionate Java Full Stack Developer focused on building scalable, secure, and real-world applications using Java and the Spring ecosystem.
 
-Currently working on backend engineering, REST API development, authentication & authorization, enterprise application architecture and building **Shree AI OS** — a deterministic AI runtime for Java 21.
+Currently building **Shree AI OS**, an open-source deterministic AI runtime for Java 21 focused on backend intelligence, hybrid RAG, memory, and reasoning.
+
+📍 Nagpur, India
+💼 Open to Software Engineer / Backend Developer roles
 
 ## 🚀 Featured Projects
 
